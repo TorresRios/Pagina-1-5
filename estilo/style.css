@@ -1,0 +1,87 @@
+
+
+.formregis{
+
+    width: 400px;
+    padding: 50px;
+    background-color: rgb(107, 142, 187);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.formregis h1{
+    font-size: 25px;
+    color: rgb(23, 23, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.inputs{
+    width: 350px;
+    padding : 7.7px;
+    border-bottom: 15px;
+    background-color: rgb(218, 248, 255)     ;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    border: 1px solid rgb(75, 198, 255);
+}
+
+.eml{
+    width: 200px;
+    padding: 80px;
+    padding-left: 0px;
+}
+
+.gen{
+    padding: 7px;
+    margin-bottom: 35px;
+}
+
+.enviar{
+
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(202, 255, 161);
+    border-radius: 20px;
+    font-size: 20px; 
+    font-weight: bold;   
+    border: 2px solid rgb(104, 196, 6);
+    display: block;
+    margin-block: auto;
+    font-family: Gill Sans MT;
+    margin: 20px;
+    margin-left: 120px;
+
+}
+
+.formregis1{
+
+    width: 400px;
+    padding: 50px;
+    background-color: yellow;
+ 
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+
+.enviar1{
+color: white;
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(5, 5, 5);
+    border-radius: 20px;
+    font-size: 20px; 
+     
+    border: 2px solid rgb(0, 0, 0);
+    display: block;
+    
+    font-family: Gill Sans MT;
+    margin: 20px;
+    
+}
